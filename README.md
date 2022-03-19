@@ -1,2 +1,2 @@
 # Hospital-Management-System
- System for managing hospital patients and doctors
+ Structured programming project for managing hospital patients and doctors
