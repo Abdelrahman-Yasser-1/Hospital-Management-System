@@ -1,22 +1,9 @@
-﻿Build started 4/12/2020 3:59:20 PM.
-     1>Project "C:\Users\LENOVO\OneDrive\Desktop\hospital management system\hospital management system\hospital management system.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp MyForm3.cpp
-         MyForm.cpp
-         MyForm3.cpp
-         Generating Code...
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LENOVO\OneDrive\Desktop\hospital management system\Debug\hospital management system.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\hospitalmanagementsystem.MyForm.resources /ASSEMBLYRESOURCE:Debug\hospitalmanagementsystem.MyForm1.resources /ASSEMBLYRESOURCE:Debug\hospitalmanagementsystem.MyForm2.resources /ASSEMBLYRESOURCE:Debug\hospitalmanagementsystem.MyForm3.resources /ASSEMBLYRESOURCE:Debug\hospitalmanagementsystem.MyForm4.resources /ASSEMBLYRESOURCE:Debug\hospitalmanagementsystem.MyForm5.resources /ASSEMBLYRESOURCE:Debug\hospitalmanagementsystem.MyForm6.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LENOVO\OneDrive\Desktop\hospital management system\Debug\hospital management system.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
-         Debug\MyForm1.obj
-         Debug\MyForm2.obj
-         Debug\MyForm3.obj
-         Debug\MyForm4.obj
-         Debug\MyForm5.obj
-         Debug\MyForm6.obj
-         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
-         hospital management system.vcxproj -> C:\Users\LENOVO\OneDrive\Desktop\hospital management system\Debug\hospital management system.exe
-     1>Done Building Project "C:\Users\LENOVO\OneDrive\Desktop\hospital management system\hospital management system\hospital management system.vcxproj" (Build target(s)).
+﻿Build started 7/10/2022 11:37:54 PM.
+     1>Project "D:\my projects\SP\hospital management system\hospital management system\hospital management system.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         hospital management system.vcxproj -> D:\my projects\SP\hospital management system\Debug\hospital management system.exe
+     1>Done Building Project "D:\my projects\SP\hospital management system\hospital management system\hospital management system.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:03.95
+Time Elapsed 00:00:00.23
